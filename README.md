@@ -13,7 +13,7 @@ En este repositorio encontrarán los talleres realizados para el análisis de Pr
 
 ### [Taller 5] (https://github.com/whernandez-c/Repositorio-NLP-/blob/main/Taller5_NLP__Bob.ipynb)Representación vectorial de textos , metodo TF-IDF
 
-### [Taller 7] (https://github.com/whernandez-c/Repositorio-NLP-/blob/main/Taller7_nlp.ipynb)Clasificación de Textos , se aplica Machine Learning aplicando el modelo y las mericas de Evaluacion
+### [Taller 7] (https://github.com/whernandez-c/Repositorio-NLP-/blob/main/Taller7_nlp.ipynb)Clasificación de Textos , se aplica Machine Learning aplicando el modelo y las metricas de Evaluacion
 
 ### [Taller 8] (https://github.com/whernandez-c/Repositorio-NLP-/blob/main/Taller_No_8_NLP_.ipynb)Agrupación de Textos con K-Means
 
@@ -21,4 +21,10 @@ En este repositorio encontrarán los talleres realizados para el análisis de Pr
 
 ### [Taller 10] (https://github.com/whernandez-c/Repositorio-NLP-/blob/main/Taller10_Nube.ipynb)Visualizaciones para NLP, usando Nube de Palabras
 
-### [Taller 12] 
+### [Taller 12] (https://github.com/whernandez-c/Repositorio-NLP-/blob/main/Taller%2012%20NLP.ipynb)Análisis de Sentimiento de la información extraída de Twitter
+
+## Si quieres conocer más sobre mi trabajo puedes visitar:
+
+[Linkedin](https://www.linkedin.com/in/wendy-carolina-hernandez-207351197)
+
+[Github](https://github.com/whernandez-c/Repositorio-NLP-)
