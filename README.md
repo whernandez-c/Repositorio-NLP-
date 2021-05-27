@@ -1,6 +1,6 @@
 ## PORTAFOLIO - Proyectos NLP 2021
 
-![Image](https://github.com/whernandez-c/Repositorio-NLP-/blob/main/NLP.jpg)
+<img src='https://raw.githubusercontent.com/whernandez-c/Repositorio-NLP-/main/NLP.jpg'>
 
 Mi nombre es Wendy Carolina Hernandez soy Ingeniera Industrial con especializacion en Analitica Estrategica de datos , mi experiencia la he obtenido a traves de realizacion de informes de distintos tipos para la representacion del estado de los datos y apoyo en el area financiera como Analista de Operaciones ,
 
